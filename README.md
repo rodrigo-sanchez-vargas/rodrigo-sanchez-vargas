@@ -10,4 +10,4 @@
 ### 📫 Contacto
 
 * **Email:** rodrigossnchezz@gmail.com
-* **LinkedIn:** [Rodrigo Sánchez Vargas](https://www.linkedin.com/in/tu-perfil)
+* **LinkedIn:** [Rodrigo Sánchez Vargas](https://www.linkedin.com/in/rodrigo-sebasti%C3%A1n-s%C3%A1nchez-vargas-298796251/)

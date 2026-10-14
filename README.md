@@ -1,16 +1,13 @@
-## Hi there 👋
+🎓 **Estudiante de Ingeniería Civil en Informática (Computer Science) en la Universidad Diego Portales.  
+💡 Desarrollo de software, análisis de datos.
 
-<!--
-**rodrigo-sanchez-vargas/rodrigo-sanchez-vargas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tecnologías y Herramientas
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contacto
+
+* **Email:** rodrigossnchezz@gmail.com
+* **LinkedIn:** [Rodrigo Sánchez Vargas](https://www.linkedin.com/in/tu-perfil)

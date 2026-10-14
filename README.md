@@ -1,4 +1,4 @@
-🎓 **Estudiante de Ingeniería Civil en Informática (Computer Science) en la Universidad Diego Portales.  
+🎓 **Estudiante de Ingeniería Civil Informática (Computer Science) en la Universidad Diego Portales.  
 💡 Desarrollo de software, análisis de datos.
 
 ### 🛠️ Tecnologías y Herramientas
